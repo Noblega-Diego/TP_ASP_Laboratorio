@@ -1,0 +1,18 @@
+﻿.in-day{
+    max-width:50px;
+}
+.in-month {
+    max-width: 100px;
+}
+.in-year {
+    max-width: 70px;
+}
+.in-text-sm {
+    max-width: 100px;
+}
+.in-text-m {
+    max-width: 130px;
+}
+.in-text-l {
+    max-width: 160px;
+}
